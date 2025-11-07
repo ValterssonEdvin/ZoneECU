@@ -10274,7 +10274,7 @@
 		)
 		(uuid "0c1754b5-a05a-44d3-9a0d-c6baa572c9de")
 	)
-	(label "USART1_RX"
+	(label "USART1_TX"
 		(at 168.91 72.39 180)
 		(effects
 			(font
@@ -10344,7 +10344,7 @@
 		)
 		(uuid "188a266e-8519-4777-8fc6-456aa835a8c9")
 	)
-	(label "USART1_TX"
+	(label "USART1_RX"
 		(at 168.91 74.93 180)
 		(effects
 			(font
